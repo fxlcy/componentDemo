@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">lib1</string>
+
+    <item name="services_id_toast1" type="id" />
+    <item name="services_id_toast2" type="id" />
+</resources>
